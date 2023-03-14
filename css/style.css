@@ -437,10 +437,12 @@ body {
 
 #tourwidget {
 	margin: auto;
-	margin-top: 25px;
+	margin-top: 30px;
 }
 
+/* HIDE "Track to get concert, live stream and tour updates." TEXT */
 .bit-top-track-button {
+	display: none !important;
 	padding: 5px 0px 0px 0px !important;
 }
 
@@ -448,7 +450,7 @@ body {
 	padding: 0px !important;
 }
 
-.bit-upcoming-events {
+.bit-upcoming-events, .bit-past-events {
 	margin: 0px 0px 10px 0px !important;
 }
 
