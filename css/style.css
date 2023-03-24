@@ -464,6 +464,15 @@ body {
 
 /* END TOUR UPDATE */
 
+/* DELUXE UPDATE */
+#ctadeluxe {
+	padding-top: 25px;
+}
+
+#albumartdeluxe {
+	margin-top: 25px !important;
+}
+
 /* MOBILE */
 
 @media only screen and (max-width: 768px) {
